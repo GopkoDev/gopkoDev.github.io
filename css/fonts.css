@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Felix Titling';
+    src: local('Felix Titling'), local('FelixTitlingMT'),
+        url('//fonts/FelixTitlingMT.woff2') format('woff2'),
+        url('//fonts/FelixTitlingMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: local('Montserrat Regular'), local('Montserrat-Regular'),
+        url('Montserrat-Regular.woff2') format('woff2'),
+        url('Montserrat-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
